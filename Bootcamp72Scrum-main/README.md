@@ -46,7 +46,7 @@ Bootcamp 72
 
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz zorluk ve öncelik sırasına göre güncellenmiştir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Telegram üzerinden sesli veya yazılı olarak yürütülmesi kararı alınmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]()
+- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Telegram üzerinden sesli veya yazılı olarak yürütülmesi kararı alınmıştır. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/gencervarol/team72-flutter/blob/16be11ab1ff361d821c3268915e9512eee7be958/Bootcamp72Scrum-main/ProjectManagement/Sprint1Documents/dailyscrummeeting1.PNG)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]() 
